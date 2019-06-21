@@ -1,1 +1,1 @@
-# aur
+# archlinux aur
